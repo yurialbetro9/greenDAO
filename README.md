@@ -66,4 +66,5 @@ More Open Source by greenrobot
 [__Essentials__](https://github.com/greenrobot/essentials) is a set of utility classes and hash functions for Android & Java projects.
 
 [Follow us on Google+](https://plus.google.com/b/114381455741141514652/+GreenrobotDe/posts) to stay up to date.
+[![](https://jitpack.io/v/yurialbetro9/greenDAO.svg)](https://jitpack.io/#yurialbetro9/greenDAO)
 
